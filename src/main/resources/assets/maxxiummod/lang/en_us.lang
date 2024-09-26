@@ -1,0 +1,11 @@
+itemGroup.maxxium_rlcraft_expansion_mod=Maxxium RLCraft Expansion Mod Items
+item.artifacts.lucky_red_balloon.name=Lucky Red Balloon
+tooltip.artifacts.lucky_red_balloon.name=Increases jump height and negates all fall damage.
+item.artifacts.balloon_cloud.name=Cloud in a Balloon
+tooltip.artifacts.balloon_cloud.name=Allows the wearer to double jump and increases jump height.
+item.artifacts.balloon_fart.name=Fart in a Balloon
+tooltip.artifacts.balloon_fart.name=Allows the wearer to double jump and increases jump height.
+item.artifacts.fart_cloud_balloon.name=Twin Balloons
+tooltip.artifacts.fart_cloud_balloon.name=Allows the wearer to triple jump and increases jump height.
+item.artifacts.balloon_bundle.name=Bundle of Balloons
+tooltip.artifacts.balloon_bundle.name=Allows the wearer to perform 4 jumps and negates fall damage.
